@@ -1,7 +1,7 @@
 ## E AÍ! Bem-Vindo ao meu perfil do Github
 
-- 👋 Meu nome é <span style="color: #6A0DAD;">Samuell Morgenstern de Souza</span>, tenho 17 anos e gosto muito de informática.
-- 💻 Estudo no <span style="color: #4E4E4E;">SENAC - RS</span>, atualmente curso o 2° ano do Ensino Médio com Técnico de Informática Integrado.
+- 👋 Meu nome é ![Samuell Morgenstern de Souza](https://via.placeholder.com/15/6A0DAD/000000?text=+) Samuell Morgenstern de Souza, tenho 17 anos e gosto muito de informática.
+- 💻 Estudo no ![SENAC - RS](https://via.placeholder.com/15/4E4E4E/000000?text=+) SENAC - RS, atualmente curso o 2° ano do Ensino Médio com Técnico de Informática Integrado.
 - 👨‍🎓 Este é meu perfil de teste e projetos, espero que goste.
 
 #### ME SIGA NAS REDES SOCIAIS!
