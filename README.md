@@ -1,4 +1,4 @@
-## E AÍ! Bem-Vindo ao meu perfil do Github
+## E AÍ! Bem-Vindo ao meu perfil do Github!
 
 - 👋 Meu nome é *Samuell Morgenstern de Souza, tenho 17 anos e gosto muito de informática.
 - 💻 Estudo no SENAC - RS, atualmente curso o 2° ano do Ensino Médio com Técnico de Informática Integrado.
