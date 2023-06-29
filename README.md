@@ -1,6 +1,8 @@
-## OI! Bem-Vindo ao meu perfil
+## E AÍ! Bem-Vindo ao meu perfil do Github
 
-- 👋 Meu nome é Samuell Morgenstern, tenho 16 anos e gosto muito de informática.
-- 💻 Estudo no SENAC - RS, curso o 1° ano do Ensimo Médio com Tecnico de Informática Integrado.
-- 🎮 Gosto muito de jogar, tocar intrumentos e viajar.
+- 👋 Meu nome é Samuell Morgenstern de Souza, tenho 17 anos e gosto muito de informática.
+- 💻 Estudo no SENAC - RS, atualmente curso o 2° ano do Ensimo Médio com Tecnico de Informática Integrado.
+- 👨‍🎓 Este é meu perfil de teste e projetos, espero que goste.
 
+##ME SIGA NAS REDES SOCIAIS!
+[![Instagram](C:\Users\samuell.souza\Pictures\Imagens Salvas\instagram.png)](https://www.instagram.com/samuell_morgenstern/)
