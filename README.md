@@ -1,4 +1,3 @@
-![Git Hub (1)](https://github.com/Chainatow777/Chainatow777/assets/107222555/60b9e133-3537-46ff-8bc4-e80a6c498c07)
 ## Bem-Vindo ao meu perfil do Github!
 
 - 👋 Meu nome é Samuell Morgenstern de Souza, tenho 17 anos e sou Developer Junior.
